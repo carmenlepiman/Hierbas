@@ -1,0 +1,26 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+header, nav, section, aside, footer{
+  display: block;
+}
+body{text-align: center;}
+
+#agrupar{
+  color: white;
+  text-align: center;
+  background-color: #386641;
+}
+#titulo {
+  background-color: #386641;
+  border: grey;
+  padding: 20px;
+}
+  #menu {
+    background-color: #6a994e;
+
+}
+
+
