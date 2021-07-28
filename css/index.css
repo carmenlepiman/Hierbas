@@ -55,7 +55,7 @@ li a:hover {
 #seccion {
   margin-top: 30px;
   margin-left: 50px;
-  width: 48%;
+  width: 46%;
   float: left;
 }
 
@@ -69,7 +69,7 @@ li a:hover {
 }
 
 #lista{
-  width: 49%;
+  width: 46%;
   float: right;
   margin-top: 150px;
 }
